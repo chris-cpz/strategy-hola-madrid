@@ -1,12 +1,10 @@
 # hola madrid
 # Strategy Type: custom
 # Description: hola madrid
-# Created: 2025-06-14T17:31:07.384Z
+# Last Updated: 2025-06-16T18:25:47.544Z
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-
 # Define the HolaMadridStrategy class
 class HolaMadridStrategy:
     def __init__(self, data, short_window=40, long_window=100):
@@ -82,7 +80,6 @@ if __name__ == "__main__":
 
 # Performance Metrics
 # Track your strategy's key performance indicators:
-# - Sharpe Ratio
-# - Maximum Drawdown
-# - Win Rate
-# - Average Return
+# - Sharpe Ratio: 0.0
+# - Performance: 0.0%
+# - Status: draft
